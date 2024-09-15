@@ -1,4 +1,54 @@
+body * {
+    font-family: 'Playfair Display', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+body {
+    background-color: #F6E8E7;
+}
+
 #title {
-    font-family: 'Playfair-Display', sans-serif;
-    font-style: normal;
+    text-align: center;
+    padding: 12px;
+}
+
+#naruto {
+    display: flex;
+    justify-content: center;
+}
+
+#narutob {  
+    text-align: center;
+    padding: 12px; 
+}
+
+#kny {
+    display: flex;
+    justify-content: center;
+}
+
+#knyb {
+    text-align: center;
+    padding: 12px; 
+}
+
+#jjk {
+    display: flex;
+    justify-content: center;
+}
+
+#jjkb {
+    text-align: center;
+    padding: 12px; 
+}
+
+#hmc {
+    display: flex;
+    justify-content: center;
+}
+
+#hmcb {
+    text-align: center;
+    padding: 12px; 
 }
