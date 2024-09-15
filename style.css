@@ -1,11 +1,11 @@
+body {
+    background-color: #F6E8E7;
+}
+
 body * {
     font-family: 'Playfair Display', sans-serif;
     font-style: italic;
     font-weight: 400;
-}
-
-body {
-    background-color: #F6E8E7;
 }
 
 #title {
@@ -51,4 +51,10 @@ body {
 #hmcb {
     text-align: center;
     padding: 12px; 
+}
+
+footer {
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
 }
