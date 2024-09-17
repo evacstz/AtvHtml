@@ -16,16 +16,18 @@ body * {
 #naruto {
     display: flex;
     justify-content: center;
+    padding: 12px;
 }
 
 #narutob {  
     text-align: center;
-    padding: 12px; 
+    padding: 12px;
 }
 
 #kny {
     display: flex;
     justify-content: center;
+    padding: 12px;
 }
 
 #knyb {
@@ -36,6 +38,7 @@ body * {
 #jjk {
     display: flex;
     justify-content: center;
+    padding: 12px;
 }
 
 #jjkb {
@@ -46,6 +49,7 @@ body * {
 #hmc {
     display: flex;
     justify-content: center;
+    padding: 12px;
 }
 
 #hmcb {
