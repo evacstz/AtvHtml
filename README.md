@@ -1,3 +1,3 @@
-⚡Latest update: September 17 2024
+⚡Latest update: September 19 2024
 
-🪼Atividade: HTML(não deveria ter CSS🫡)
+🪼Atividade: HTML e CSS básico
