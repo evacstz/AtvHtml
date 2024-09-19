@@ -1,5 +1,5 @@
 body {
-    background-color: #F6E8E7;
+    background: radial-gradient(circle, #ffa4c8, #ffb4d2, #fcc3da, #fdd1e2, #ffdeeb);
 }
 
 body * {
@@ -9,55 +9,24 @@ body * {
 }
 
 #title {
+    color: #5c2a3e;
     text-align: center;
     padding: 12px;
 }
 
-#naruto {
+.image {
     display: flex;
     justify-content: center;
     padding: 12px;
 }
 
-#narutob {  
+.button {
     text-align: center;
     padding: 12px;
-}
-
-#kny {
-    display: flex;
-    justify-content: center;
-    padding: 12px;
-}
-
-#knyb {
-    text-align: center;
-    padding: 12px; 
-}
-
-#jjk {
-    display: flex;
-    justify-content: center;
-    padding: 12px;
-}
-
-#jjkb {
-    text-align: center;
-    padding: 12px; 
-}
-
-#hmc {
-    display: flex;
-    justify-content: center;
-    padding: 12px;
-}
-
-#hmcb {
-    text-align: center;
-    padding: 12px; 
 }
 
 footer {
+    color: #5c2a3e;
     padding: 12px;
     text-align: center;
     font-size: 15px;
