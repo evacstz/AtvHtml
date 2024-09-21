@@ -20,12 +20,23 @@ body * {
     padding: 12px;
 }
 
-.link {
+img {
+    width: 450px;
+    border-radius: 30px;
+}
+
+.link { 
+    font-size: 18px;
     text-align: center;
     padding: 12px;
-    background-color: #5c2a3e;
-    color: #F6E8E7;
-    /*text-decoration: none;*/
+}
+
+a {
+    text-decoration: none;
+    color: #5c2a3e;
+    border: 1.5px solid #5c2a3e;
+    border-radius: 50px;
+    padding: 5px;
 }
 
 footer {
@@ -33,4 +44,6 @@ footer {
     padding: 12px;
     text-align: center;
     font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-style: normal;
 }
