@@ -20,9 +20,12 @@ body * {
     padding: 12px;
 }
 
-.button {
+.link {
     text-align: center;
     padding: 12px;
+    background-color: #5c2a3e;
+    color: #F6E8E7;
+    /*text-decoration: none;*/
 }
 
 footer {
