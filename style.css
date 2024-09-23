@@ -3,7 +3,7 @@ body {
 }
 
 body * {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-style: italic;
     font-weight: 400;
 }
@@ -21,12 +21,12 @@ body * {
 }
 
 img {
-    width: 450px;
+    width: 500px;
     border-radius: 30px;
 }
 
-.link { 
-    font-size: 18px;
+.link {
+    font-size: 15px;
     text-align: center;
     padding: 12px;
 }
@@ -37,6 +37,7 @@ a {
     border: 1.5px solid #5c2a3e;
     border-radius: 50px;
     padding: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.50);
 }
 
 footer {
