@@ -44,7 +44,7 @@ a {
     border: 1.5px solid #5c2a3e;
     border-radius: 50px;
     padding: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.50);
+    box-shadow: 0 2px 4px #5c2a3e;
 }
 
 footer {
